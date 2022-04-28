@@ -3,7 +3,7 @@ const chain = 'rinkeby'; // rinkeby or polygon
 
 const welcome_h1 = "Welcome to the Crypto Town Community NFT Project!!!";
 const welcome_h2 = "Connect to MetaMask to Get Started";
-const welcome_p = "Welcome to the Crypto Town Community NFT Project! We cannot wait for you to join!";
+const welcome_p = "The Crypto Town Community is an NFT Collection consisting of 10.000 unique images! 5000 are currently available for minting. So be quick and get your uniqe images!";
 const h1_presale_coming_soon = "NFT Drop Coming Soon!!";
 const h1_presale_mint = "Pre-Sale Minting Open!!";
 const h1_public_mint = "Public Minting Open!!";
