@@ -1,9 +1,9 @@
 const contractAddress = "0x7bf82dbBf06c0e45D3db732b86b6d6E1951Ccbde"; //Replace with your own contract address
 const chain = 'rinkeby'; // rinkeby or polygon
 
-const welcome_h1 = "Welcome to the Crypto Town Community NFT Project!!";
+const welcome_h1 = "Welcome to the Crypto Town Community NFT Project!!!";
 const welcome_h2 = "Connect to MetaMask to Get Started";
-const welcome_p = "Welcome to the Crypto Town Community NFT Project?! Please conect to MetaMask t get started, we cannot wait for you to join!";
+const welcome_p = "Welcome to the Crypto Town Community NFT Project! We cannot wait for you to join!";
 const h1_presale_coming_soon = "NFT Drop Coming Soon!!";
 const h1_presale_mint = "Pre-Sale Minting Open!!";
 const h1_public_mint = "Public Minting Open!!";
